@@ -1,9 +1,9 @@
-Comados de sistema
+Comandos de sistema
 	cd 
 	cd ..
 	cd nombreDeCarpeta
 	mkdir crea un directorio
-	rm eliina archivos
+	rm elimina archivos
 	ls enlista archivos y carpetas
 	ls -a  enlista todos los archivos y carpetas
 Comandos de git
