@@ -17,3 +17,8 @@ git commit -m"Descripcion del commit, entre mas clara mejor"
 
 git status  permite saber el estatus del repositorio
 git log	    Permite ver el historial de commits
+
+cancion
+
+git remote Crear un repistorio espejo que mantendra un vinculo local de un repositorio remoto
+git remote add 	<origin> <url o direccion del repositorio> Crear el vinculo a otro repositorio
